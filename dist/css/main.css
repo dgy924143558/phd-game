@@ -54,8 +54,8 @@ em {
     margin: 0 auto;
 }
 .panel {
-    border: 2px solid #7c7373; /* 更细致的边框颜色，接近深灰或铁灰色 */
-    background: #faf4f4; /* 淡粉色背景，增添柔和感觉 */
+    border: 2px solid #552121; /* 更细致的边框颜色，接近深灰或铁灰色 */
+    background: #f1d7d7; /* 淡粉色背景，增添柔和感觉 */
     padding: 0.5em 1em; /* 增加内边距以提供更多的空间感 */
     margin: 1em auto; /* 调整外边距以提升布局的美感 */
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15); /* 更微妙的阴影效果，使界面更轻盈 */
